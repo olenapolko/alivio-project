@@ -145,7 +145,7 @@ h1, h2, h3, h4 {
 
 /* Main Styles */
 .hero {
-	background-image: linear-gradient(110deg, #ffffff 15%, rgba(0,0,0,0.25) 53%), url("/img/main.png");
+	background-image: linear-gradient(110deg, #ffffff 15%, rgba(0,0,0,0.25) 53%), url("../img/main.png");
 	background-size: cover;
 	background-position: center;
 	height: calc(100vh - 85px);
